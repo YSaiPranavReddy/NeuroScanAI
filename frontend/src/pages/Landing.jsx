@@ -4,7 +4,7 @@ import { motion } from 'framer-motion'
 import styles from './Landing.module.css'
 
 const STATS = [
-  { label: 'Test Accuracy', value: '98.2%', icon: Activity, color: '#10b981' },
+  { label: 'Test Accuracy', value: '92%', icon: Activity, color: '#10b981' },
   { label: 'Dataset Images', value: '10,495', icon: Database, color: '#06b6d4' },
   { label: 'Model', value: 'ViT-Small', icon: Cpu, color: '#a78bfa' },
   { label: 'Classes', value: '4', icon: Shield, color: '#f59e0b' },
