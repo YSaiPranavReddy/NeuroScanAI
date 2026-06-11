@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pkl
+.env
+.ipynb_checkpoints/
+checkpoints/
+
+content/
+dataset/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
