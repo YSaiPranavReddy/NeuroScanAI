@@ -69,7 +69,7 @@ export default function Landing() {
         >
           <motion.div className={styles.heroBadge} variants={fadeUp}>
             <Activity size={14} />
-            Alzheimer's MRI Classification · 98.2% Accuracy
+            Alzheimer's MRI Classification · 92% Accuracy
           </motion.div>
 
           <motion.h1 className={styles.heroTitle} variants={fadeUp}>
